@@ -8,7 +8,7 @@
 /* Modified by 
  *  Manuel Arrayás
  *  manuel.arrayas@gmail.com
- *  09-05-2022
+ *  01-01-2024
  */
  
 #include "HC-SR04/SR04.h" // Library for the sensor
